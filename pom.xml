@@ -61,7 +61,7 @@
             <archive>
               <manifest>
                 <addClasspath>true</addClasspath>
-                <mainClass>src.main.java.devOps_Bastien_Didier.devOps_Bastien_Didier.JXBusyLabelTest</mainClass>
+                <mainClass>main.java.devOps_Bastien_Didier.devOps_Bastien_Didier.JXBusyLabelTest</mainClass>
               </manifest>
             </archive>
           </configuration>
